@@ -1,0 +1,8 @@
+package com.jsp.servletfirst;
+
+import javax.servlet.GenericServlet;
+import javax.servlet.Servlet;
+
+public class MyServlet extends GenericServlet {
+
+}
