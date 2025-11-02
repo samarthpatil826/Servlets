@@ -26,13 +26,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.jsp.servletsecond"/>
+			<item value="com.jsp.employeeform"/>
 		</list>
 		<list key="groupId">
 			<item value="com.jsp"/>
 		</list>
 		<list key="artifactId">
-			<item value="servletsecond"/>
+			<item value="employeeform"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
