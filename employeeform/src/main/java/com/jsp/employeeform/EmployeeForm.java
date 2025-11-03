@@ -23,6 +23,15 @@ public class EmployeeForm extends GenericServlet {
 		String role = req.getParameter("role");
 		String yoe = req.getParameter("yoe");
 		
+		System.out.println(fname);
+		System.out.println(lname);
+		System.out.println(loc);
+		System.out.println(num);
+		System.out.println(age);
+		System.out.println(gen);
+		System.out.println(role);
+		System.out.println(yoe);
+		
 		PrintWriter pw = res.getWriter();
 		pw.write("<head>");
 		pw.write("<body>");
