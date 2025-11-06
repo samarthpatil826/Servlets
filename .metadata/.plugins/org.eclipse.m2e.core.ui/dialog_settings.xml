@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Java fullstack\Servlet\servlettest\src\main\java\com\jsp\servlettest\MyServlet.java"/>
+			<item value="D:\Java fullstack\Servlet\employeeform\src\main\java\com\jsp\employeeform\EmployeeForm.java"/>
 			<item value="D:\Java fullstack\Servlet\servletfirst\src\main\java\com\jsp\servletfirst\MyServlet.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,12 +28,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.jsp.requestdispatcher"/>
+			<item value="com.jsp.servlettest"/>
 			<item value="com.jsp.employeeform"/>
 		</list>
 		<list key="groupId">
 			<item value="com.jsp"/>
 		</list>
 		<list key="artifactId">
+			<item value="requestdispatcher"/>
+			<item value="servlettest"/>
 			<item value="employeeform"/>
 		</list>
 		<list key="projectNameTemplate">

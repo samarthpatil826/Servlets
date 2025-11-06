@@ -1,30 +1,46 @@
-0:00:00 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
-0:00:00 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
-0:00:00 Microsoft.Shutdown.TabStripModel.CloseWebContentses
-0:00:00 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
-0:00:00 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
-0:00:00 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
-0:00:00 Microsoft.UnloadController.ClearUnloadState
-0:00:00 Browser1 Close Tab1 at 0
-0:00:00 Tab1 WebContentsDestroyed
-0:00:00 Microsoft.UnloadController.TabStripEmpty
-0:00:00 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-0:00:00 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-0:00:00 Microsoft.Shutdown.OnWindowClosing
-0:00:00 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
-0:00:00 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-0:00:00 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
-0:00:00 Widget Closed: BrowserFrame
-0:00:00 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
-0:00:00 Microsoft.Shutdown.OnWindowClosing
-0:00:00 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
-0:00:00 Microsoft.Last_Browser_Removed
-0:00:00 Microsoft.Shutdown.ShutdownIfNoBrowsers
-0:00:00 Microsoft.Shutdown.SetTryingToQuit_Quitting
-0:00:00 Microsoft.Shutdown.NotifyAppTerminating
-0:00:00 Microsoft.Shutdown.OnAppExiting
-0:00:00 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
-0:00:00 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
-0:00:00 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
-0:00:00 Microsoft.Shutdown.NotifyAppTerminating
-0:00:00 Microsoft.Shutdown.OnAppExiting
+0:12:51 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:12:51 Microsoft.Shutdown.TabStripModel.CloseAllTabs
+0:12:51 Microsoft.Shutdown.TabStripModel.CloseTabs
+0:12:51 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+0:12:51 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+0:12:51 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+0:12:51 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+0:12:51 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+0:12:51 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+0:12:51 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+0:12:51 Tab16 RenderProcessGone
+0:12:51 Microsoft.UnloadController.ClearUnloadState
+0:12:51 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+0:12:51 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+0:12:51 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+0:12:51 Microsoft.UnloadController.ClearUnloadState
+0:12:51 Browser16 Close Tab16 at 0
+0:12:51 Tab16 WebContentsDestroyed
+0:12:51 Microsoft.UnloadController.TabStripEmpty
+0:12:51 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:12:51 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:12:51 Microsoft.Shutdown.OnWindowClosing
+0:12:51 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:12:51 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:12:51 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:12:51 Widget Closed: BrowserFrame
+0:12:51 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:12:51 Microsoft.Shutdown.OnWindowClosing
+0:12:51 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+0:12:51 Microsoft.Browser_Removed
+0:14:04 Tab1 StartNav53 #typed
+0:14:04 Tab1 FinishNav53
+0:14:04 Tab1 PageLoad
+0:14:28 Tab1 StartNav54 #typed
+0:14:28 Tab1 FinishNav54
+0:14:28 Tab1 PageLoad
+0:14:30 Tab1 StartNav55 #typed
+0:14:30 Tab1 FinishNav55
+0:14:30 Tab1 PageLoad
+0:15:18 Tab1 StartNav56 #typed
+0:15:18 Tab1 FinishNav56
+0:15:18 Tab1 PageLoad
+0:16:01 Tab1 StartNav57 #typed
+0:16:01 Tab1 FinishNav57
+0:16:01 Tab1 PageLoad
+0:16:43 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp

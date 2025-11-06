@@ -1,7 +1,0 @@
-package com.jsp.servletfirst;
-
-import javax.servlet.Servlet;
-
-public class MyServlet implements Servlet {
-
-}
