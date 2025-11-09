@@ -162,7 +162,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="D:\Java fullstack\Servlet\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\Java fullstack\Servlet\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\requestdispatcher" path="/requestdispatcher" reloadable="true" source="org.eclipse.jst.j2ee.server:requestdispatcher"/></Host>
+      <Context docBase="D:\Java fullstack\Servlet\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\Java fullstack\Servlet\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\loadonstartup" path="/loadonstartup" reloadable="true" source="org.eclipse.jst.j2ee.server:loadonstartup"/></Host>
     </Engine>
   </Service>
 </Server>

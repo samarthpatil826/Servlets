@@ -26,10 +26,9 @@ public class A extends HttpServlet {
 		wr.write("</head>");
 		wr.write("</body>");
 		
-//		rd.forward(req, resp);  ignore the current page content and forward the request to next resource
+//		rd.forward(req, resp);  //ignore the current page content and forward the request to next resource
 		
-		rd.include(req, resp);   
-//		it include current page and next page and give response
+		rd.include(req, resp);   //		it include current page and next page and give response
 	}
 
 }
