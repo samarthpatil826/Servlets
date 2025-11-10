@@ -15,8 +15,8 @@ public class B extends HttpServlet{
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		
-		
+
+
 		PrintWriter wr = resp.getWriter();
 		wr.write("<head>");
 		wr.write("<body>");
@@ -24,5 +24,5 @@ public class B extends HttpServlet{
 		wr.write("</head>");
 		wr.write("</body>");
 	}
-	
+
 }
